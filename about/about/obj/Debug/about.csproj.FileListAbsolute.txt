@@ -1,0 +1,10 @@
+D:\about\about\obj\Debug\about.csproj.AssemblyReference.cache
+D:\about\about\obj\Debug\about.csproj.CoreCompileInputs.cache
+D:\about\about\bin\Debug\about.exe.config
+D:\about\about\bin\Debug\about.exe
+D:\about\about\bin\Debug\about.pdb
+D:\about\about\obj\Debug\about.exe
+D:\about\about\obj\Debug\about.pdb
+D:\about\about\obj\Debug\WindowsApplication1.Form3.resources
+D:\about\about\obj\Debug\about.csproj.GenerateResource.cache
+D:\about\about\obj\Debug\about.exe.config
